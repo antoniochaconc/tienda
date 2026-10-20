@@ -1,0 +1,32 @@
+// Colores
+$primary-color: #6c5ce7;
+$primary-dark: #4834d4;
+$secondary-color: #00cec9;
+$bg-dark: #1e272e;
+$bg-light: #f5f6fa;
+$text-main: #2f3640;
+$text-light: #ffffff;
+$danger-color: #ff7675;
+
+// Tipografías
+$font-main: 'Segoe UI', Roboto, Helvetica, sans-serif;
+$font-heading: 'Trebuchet MS', sans-serif;
+$base-font-size: 16px;
+
+// Espaciados
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 48px;
+
+// Breakpoints
+$bp-mobile: 768px;
+$bp-desktop: 1024px;
+
+// Mapa de etiquetas/categorías para usar con @each
+$badge-colors: (
+  "oferta": #e84118,
+  "nuevo": #4cd137,
+  "exclusivo": #9c88ff
+);
